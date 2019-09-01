@@ -1,0 +1,7040 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2275,
+                    6.1685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "138.192ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4585,
+                    59.8595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.274ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2405,
+                    -33.9495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "180.239ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.8015,
+                    56.0005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "169.119ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1325,
+                    51.5075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.07ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0895,
+                    61.0695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.848ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6185,
+                    55.7585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.914ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.6725,
+                    44.8815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "24.767ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.8285,
+                    54.6005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "42.968ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4195,
+                    34.6005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "368.425ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4405,
+                    59.7095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "33.133ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8395,
+                    53.8495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "91.588ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5975,
+                    51.1475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.931ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4395,
+                    44.7985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "119.471ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2595,
+                    61.6315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "119.087ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5715,
+                    51.1505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "94.104ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6215,
+                    50.5195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "125.298ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6685,
+                    50.4415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "111.942ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8305,
+                    45.6375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.161ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0505,
+                    53.5985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "93.077ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8795,
+                    52.3675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.874ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6605,
+                    41.4105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "22.891ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0995,
+                    48.0015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.874ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3625,
+                    39.5105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "45.148ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7205,
+                    40.4315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "26.357ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6205,
+                    55.8205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.938ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9315,
+                    51.7775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "84.12ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4625,
+                    34.0005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "29.621ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1175,
+                    22.3695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "33.785ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9595,
+                    52.3295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "88.749ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6415,
+                    48.8485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.249ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4205,
+                    -33.9205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "215.865ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2085,
+                    40.0015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "53.408ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6085,
+                    48.8505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "47.423ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8895,
+                    37.3375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "32.967ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9725,
+                    36.9475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "61.508ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1205,
+                    51.7915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "143.384ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6215,
+                    -33.4495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "211.534ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7715,
+                    37.9975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "72.246ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6875,
+                    3.1395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "13.813ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0085,
+                    43.6815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "128.932ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4985,
+                    52.0315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "82.883ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3805,
+                    48.8615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "78.656ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2395,
+                    34.0495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "25.23ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5705,
+                    50.7595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "98.526ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.6705,
+                    -4.0385
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "295.483ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1475,
+                    -26.3305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "247.571ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3385,
+                    48.7715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "701.26ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.0525,
+                    35.0685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "21.147ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3075,
+                    52.0815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.892ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5005,
+                    47.3815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "103.814ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1715,
+                    51.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "102.717ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1885,
+                    -25.8605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "241.657ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3505,
+                    48.8815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "79.188ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1785,
+                    48.8615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "98.418ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4095,
+                    51.7915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "94.942ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6475,
+                    44.8585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "108.586ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8505,
+                    52.3675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.666ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2195,
+                    51.4975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "83.335ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5075,
+                    52.2995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "84.742ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9795,
+                    59.3805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.612ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0205,
+                    50.2585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.763ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4705,
+                    -33.9725
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "236.909ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2585,
+                    38.7585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.681ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3095,
+                    47.0495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "100.307ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4585,
+                    45.6075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "101.063ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9985,
+                    36.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "37.151ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2385,
+                    13.6875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "53.922ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8675,
+                    42.0115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.602ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.2315,
+                    -42.7485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "167.516ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4575,
+                    50.8505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "85.799ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3715,
+                    47.7475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.667ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4025,
+                    -34.6415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "159.315ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7825,
+                    56.0005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.468ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3185,
+                    51.6195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.376ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7085,
+                    47.2105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "45.31ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9395,
+                    51.5615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "97.369ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1585,
+                    43.2105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "37.896ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3485,
+                    42.6215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.442ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.2825,
+                    55.8185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "102.283ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3505,
+                    42.6595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "121.971ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9605,
+                    51.2775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.846ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2005,
+                    50.7405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "99.28ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6015,
+                    55.6415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "118.348ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5175,
+                    46.6615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "121.439ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2095,
+                    48.8505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "81.005ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6305,
+                    49.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "36.448ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8475,
+                    45.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.727ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2705,
+                    48.9105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.506ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1425,
+                    42.6585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "16.497ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1815,
+                    49.3895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "89.892ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1215,
+                    50.8405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "81.767ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4795,
+                    48.8195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "88.81ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.4915,
+                    39.1695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "50.18ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6205,
+                    55.7575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "46.24ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6215,
+                    55.7575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "126.043ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2575,
+                    48.6975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "21.444ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.3595,
+                    36.3715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "69.986ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6115,
+                    -6.8885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "20.362ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5325,
+                    40.9885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "24.475ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6595,
+                    40.5285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "109.012ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3585,
+                    46.6715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.411ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7785,
+                    51.8975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "80.529ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0115,
+                    51.0905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "113.343ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1615,
+                    50.1305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.877ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8595,
+                    6.8995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "202.101ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5575,
+                    59.9285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.463ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6885,
+                    50.1875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.498ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7315,
+                    41.5885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "38.097ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7395,
+                    49.2215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.806ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9875,
+                    46.4205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "155.68ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4715,
+                    10.2485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "73.458ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1395,
+                    55.4675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.795ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1915,
+                    40.0285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "38.648ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9995,
+                    -29.8585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "189.993ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0995,
+                    48.1915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "130.553ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.3495,
+                    33.4375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "47.103ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5415,
+                    55.6515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "22.633ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1995,
+                    40.9695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.148ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7495,
+                    61.2005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "121.429ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2805,
+                    49.5095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "5.726ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2505,
+                    43.6395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "25.486ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2705,
+                    51.4815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.643ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9125,
+                    19.5415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "88.834ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5305,
+                    50.1005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "113.849ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3375,
+                    48.6305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.691ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4685,
+                    46.0795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "119.433ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7895,
+                    48.0885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.35ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6505,
+                    53.9395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "109.394ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6375,
+                    49.8785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "87.638ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6995,
+                    50.5005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "88.41ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2875,
+                    55.9185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "118.231ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0385,
+                    52.0095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "87.175ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4705,
+                    50.0785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "106.266ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5275,
+                    47.3685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.613ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3825,
+                    42.6515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "13.801ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5495,
+                    47.3785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "99.156ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1515,
+                    22.2795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "34.488ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5315,
+                    50.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "98.071ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7375,
+                    50.1195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "86.457ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3485,
+                    46.9675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "86.67ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4315,
+                    34.6595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "43.386ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9805,
+                    43.2905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "117.816ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5575,
+                    51.9705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.253ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9205,
+                    49.0675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "114.805ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9115,
+                    36.9715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "34.484ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.6395,
+                    56.8405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "73.978ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2275,
+                    54.7375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "114.798ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3705,
+                    51.4075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.285ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1905,
+                    -33.9325
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "140.609ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0385,
+                    51.5215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "79.226ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4375,
+                    47.1595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "28.853ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2595,
+                    42.7085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.217ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1105,
+                    56.9205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "117.323ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4715,
+                    49.4815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "7.885ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2085,
+                    13.0615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "41.936ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1185,
+                    38.8075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "115.987ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4515,
+                    48.2485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.916ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6485,
+                    49.8805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "97.213ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3515,
+                    48.9305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "78.813ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6875,
+                    51.8405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "90.203ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7185,
+                    47.5005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.651ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1795,
+                    48.7785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "93.041ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1605,
+                    65.5795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "120.613ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3275,
+                    46.1385
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.013ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9695,
+                    49.9595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "103.352ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7125,
+                    40.4015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.997ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5375,
+                    53.4485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.424ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9085,
+                    47.0975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "116.185ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9505,
+                    47.4915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.831ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5405,
+                    50.4315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.24ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6715,
+                    49.9995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "100.861ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.4985,
+                    14.7315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "231.779ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5425,
+                    44.0315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "45.577ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3885,
+                    33.8605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "28.514ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6275,
+                    50.4005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "117.714ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8795,
+                    42.2995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "28.098ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9875,
+                    41.2805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "106.696ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.8075,
+                    13.4385
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "137.58ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1695,
+                    38.6715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "115.487ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.6885,
+                    43.3205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "146.513ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4705,
+                    50.4675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.539ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8395,
+                    43.4595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.824ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7905,
+                    45.8305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "106.169ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.2715,
+                    41.3075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "104.379ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9315,
+                    46.0115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "99.884ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5075,
+                    41.9015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "55.133ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1385,
+                    48.5895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "94.676ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0715,
+                    41.5785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.992ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2705,
+                    44.1195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "62.681ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5375,
+                    52.4105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "107.473ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1275,
+                    47.6605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "44.66ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3695,
+                    48.8295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.085ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1305,
+                    53.1415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.59ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0085,
+                    52.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.481ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.1305,
+                    55.7775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "59.822ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0985,
+                    48.7405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "92.564ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4905,
+                    52.3815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.379ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7515,
+                    49.3105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.028ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0705,
+                    32.7695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "31.075ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1205,
+                    52.4875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.694ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8815,
+                    32.1475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "160.743ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.2115,
+                    -6.7885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "280.975ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0805,
+                    59.6415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.056ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8685,
+                    38.6405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "104.78ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9485,
+                    40.7875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "8.579ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7375,
+                    -36.6315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "178.846ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8475,
+                    -33.9525
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "223.849ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8175,
+                    -1.2925
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "205.055ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6115,
+                    54.1405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.609ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3985,
+                    55.6595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "24.457ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4075,
+                    35.7905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "228.021ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4375,
+                    41.9005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.772ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6785,
+                    51.0695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "22.131ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4695,
+                    55.8005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "124.49ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1295,
+                    44.4375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "126.209ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0595,
+                    -38.9485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "607.015ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1985,
+                    40.1015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "38.461ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1615,
+                    36.8015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.798ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2285,
+                    48.0015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "122.471ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3415,
+                    50.0395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.502ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5875,
+                    51.8815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "89.38ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3505,
+                    33.9285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "27.933ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2295,
+                    59.9515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "116.982ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7915,
+                    35.6715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "99.29ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4515,
+                    44.0475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "41.782ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6215,
+                    44.6905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "125.13ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8905,
+                    60.2405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "38.866ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.6095,
+                    34.2715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "40.437ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7805,
+                    45.0505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "22.255ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8185,
+                    51.2695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "88.794ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0215,
+                    48.9505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "97.745ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5495,
+                    53.7895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "83.559ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9705,
+                    35.8405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "89.401ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0985,
+                    52.0875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "86.254ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3975,
+                    35.9395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "123.565ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4985,
+                    46.2785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "108.912ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7785,
+                    -41.2805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "173.911ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3295,
+                    50.0405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "94.748ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4275,
+                    -20.8895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "203.799ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8005,
+                    50.2305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "96.252ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6305,
+                    50.1015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "87.026ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.9685,
+                    -6.2595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "15.613ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8195,
+                    53.1005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.598ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.8585,
+                    -31.9495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "188.059ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.0525,
+                    -38.6185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "167.028ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0475,
+                    50.8715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "113.195ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5185,
+                    48.8315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "83.257ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8205,
+                    62.9985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "145.39ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0415,
+                    53.6395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.97ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9695,
+                    59.3715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "114.602ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5305,
+                    57.3315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "124.478ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0995,
+                    48.3315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.566ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4605,
+                    52.1295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.173ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9295,
+                    52.4075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "113.377ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2705,
+                    47.8795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.103ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3405,
+                    59.9615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "128.473ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4615,
+                    9.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "179.036ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0385,
+                    59.4675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.192ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9005,
+                    33.9695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "143.76ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1285,
+                    54.0975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "108.692ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3295,
+                    47.6075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "29.697ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3725,
+                    30.0985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "40.193ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.1505,
+                    12.3175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "117.779ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5385,
+                    44.0285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "43.581ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4675,
+                    50.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.04ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4715,
+                    50.8915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.433ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2525,
+                    50.8715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.587ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8405,
+                    50.9875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "94.244ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0315,
+                    41.0705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.863ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4575,
+                    55.5195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "101.624ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6115,
+                    14.6475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "76.963ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0615,
+                    53.5515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.332ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3575,
+                    35.1605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "154.781ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5415,
+                    47.3815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.29ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5085,
+                    45.5305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "116.509ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6175,
+                    42.0495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.898ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9005,
+                    52.2075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "84.603ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9875,
+                    54.7595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "61.023ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.1505,
+                    -20.2315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "205.484ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4585,
+                    -33.9615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "153.78ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.3705,
+                    10.0505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "83.71ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0795,
+                    49.4275
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "21.82ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3205,
+                    60.3415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "130.88ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5515,
+                    43.0605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "126.248ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1595,
+                    50.7185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.507ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3305,
+                    50.6085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.063ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1005,
+                    49.0095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.0ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5185,
+                    47.3605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.015ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7775,
+                    59.9175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "114.42ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4015,
+                    48.2615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "91.914ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8595,
+                    56.6705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "116.459ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6785,
+                    51.1505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "112.21ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2005,
+                    48.8985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "98.884ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1195,
+                    -16.4985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "220.758ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1105,
+                    45.9075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "96.711ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7975,
+                    35.7695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "72.257ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.7895,
+                    42.4985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "49.091ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1505,
+                    50.4515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "93.275ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3015,
+                    33.2575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "85.684ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4975,
+                    47.3815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "99.842ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9285,
+                    43.2095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "136.153ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8695,
+                    52.2015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "10.889ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8115,
+                    60.1375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.408ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5585,
+                    53.9005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "111.488ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7805,
+                    38.0315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "151.382ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5605,
+                    53.8985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "114.078ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1805,
+                    35.3195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "164.18ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4775,
+                    47.7685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "117.599ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2775,
+                    52.4515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.893ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5305,
+                    41.9015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "110.028ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0515,
+                    42.4605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "13.909ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0415,
+                    44.4185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.558ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0715,
+                    44.4605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "121.82ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0315,
+                    48.7685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.957ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5025,
+                    43.6305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "39.366ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1285,
+                    -29.5795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "240.878ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5975,
+                    53.9185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.767ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4985,
+                    52.1615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "83.646ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6475,
+                    44.8715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.992ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0415,
+                    51.7015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "83.569ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0095,
+                    45.8005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "107.276ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8505,
+                    43.2205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "90.444ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1985,
+                    52.8985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "97.88ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.9215,
+                    47.0895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "152.871ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3215,
+                    55.9315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.603ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2315,
+                    54.7405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "120.401ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8075,
+                    46.1785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.395ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4385,
+                    35.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "203.81ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1595,
+                    48.9085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "81.199ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6915,
+                    48.1275
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "112.601ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.8695,
+                    59.2295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "45.37ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6985,
+                    44.3875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "42.572ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5115,
+                    10.1175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "91.259ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0595,
+                    50.6285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "83.22ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4905,
+                    53.5105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "116.076ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5075,
+                    47.2085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "37.62ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1605,
+                    56.1115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "99.769ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1205,
+                    56.1695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.031ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.7915,
+                    41.7215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "139.31ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9775,
+                    57.0195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.748ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4105,
+                    47.8375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.591ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3785,
+                    38.4915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "42.703ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8295,
+                    -6.1815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "80.811ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6085,
+                    49.1995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "81.308ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1595,
+                    42.4985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "49.376ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6895,
+                    45.0705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "109.771ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9915,
+                    45.2195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "45.773ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2175,
+                    47.2805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "120.757ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7785,
+                    -41.2885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "174.2ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9985,
+                    40.7115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "7.758ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6875,
+                    35.6905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "85.349ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1185,
+                    49.2805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "12.364ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8615,
+                    39.9315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "52.397ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2175,
+                    46.0405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "154.473ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5495,
+                    52.6675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "98.037ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0595,
+                    44.4285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "124.89ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0015,
+                    48.0415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "135.789ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4525,
+                    44.9575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "55.343ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.9085,
+                    10.3205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "65.698ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6885,
+                    52.9595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.602ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5915,
+                    55.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "123.609ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0085,
+                    41.0715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "126.132ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8805,
+                    47.8115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "125.56ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0425,
+                    51.0275
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "26.712ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9985,
+                    19.9995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "49.998ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2885,
+                    48.8675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.586ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6185,
+                    43.4105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "119.655ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2105,
+                    58.9995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.455ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0195,
+                    38.5315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "50.976ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1105,
+                    56.7085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "104.862ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9105,
+                    43.2085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "98.927ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9615,
+                    41.5595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "52.922ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0785,
+                    44.5675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "118.175ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0595,
+                    47.5195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "99.76ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6295,
+                    48.0975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "108.503ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8595,
+                    61.4485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "118.783ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6795,
+                    46.5715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "119.474ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4895,
+                    51.3015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "97.536ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4005,
+                    50.0685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.095ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0015,
+                    20.0005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "77.216ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2115,
+                    46.2305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "95.844ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9775,
+                    55.5615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.72ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3375,
+                    59.9305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "117.702ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5505,
+                    51.4075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "85.062ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1105,
+                    53.5395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.049ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.3125,
+                    43.6385
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "27.115ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6515,
+                    48.1005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "24.516ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1395,
+                    53.4875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "98.817ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3295,
+                    -21.2305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "206.955ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4695,
+                    35.1085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "49.684ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1715,
+                    50.9205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "98.333ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3175,
+                    49.1175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "114.584ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7295,
+                    39.2875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "6.056ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3915,
+                    51.9985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.167ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2485,
+                    42.9795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "32.707ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.1525,
+                    39.8495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "66.713ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4575,
+                    48.0605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "107.162ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4625,
+                    45.4485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "26.665ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3075,
+                    49.8775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.557ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9275,
+                    45.6715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "128.4ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5315,
+                    37.1175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "7.874ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7385,
+                    51.2375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "90.113ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6405,
+                    42.0505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "57.859ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6705,
+                    60.7675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "117.969ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2105,
+                    59.2785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "109.136ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4615,
+                    46.4795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "152.511ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3085,
+                    51.4875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.485ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0785,
+                    49.3095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.352ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4515,
+                    46.0585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "127.428ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7375,
+                    50.1185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "88.247ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3615,
+                    38.9475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "2.741ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2905,
+                    40.7595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "18.269ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.2905,
+                    34.6995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "20.492ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9095,
+                    44.2005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.718ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1105,
+                    48.8775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.459ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3395,
+                    26.7185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "43.271ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7585,
+                    35.6585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "70.031ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5015,
+                    49.8915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "22.785ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.7915,
+                    38.5615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "174.216ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2985,
+                    24.9995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "59.251ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4105,
+                    43.6905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "36.375ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6385,
+                    52.3395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.985ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6915,
+                    59.4595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "121.711ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9915,
+                    39.9605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "18.625ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.9605,
+                    18.4415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "76.261ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1105,
+                    48.1515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "45.205ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7815,
+                    48.5705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "84.855ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2475,
+                    -26.0815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "234.332ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6075,
+                    55.7395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "78.395ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.0425,
+                    50.2705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "78.957ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9095,
+                    -33.7725
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "163.064ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5985,
+                    30.0515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "39.271ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4975,
+                    50.9695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "91.42ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5075,
+                    47.2905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "140.442ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.7175,
+                    41.7315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "139.564ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6085,
+                    42.1615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "116.519ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0405,
+                    34.0905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "35.877ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0985,
+                    32.8485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "76.89ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9485,
+                    49.3215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "20.717ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0585,
+                    35.6375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "78.942ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4215,
+                    50.9405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "99.455ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7395,
+                    59.9205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.765ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2905,
+                    41.0315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "138.847ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0585,
+                    42.4985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "56.313ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0475,
+                    36.7485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "136.333ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9215,
+                    38.6005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "5.221ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6215,
+                    30.4495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "41.917ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6895,
+                    -34.7095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "162.646ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.8225,
+                    39.5375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "31.047ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0705,
+                    59.3285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "115.875ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7005,
+                    10.7905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "69.052ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3605,
+                    48.8515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "9.747ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3475,
+                    48.9275
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "93.212ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.3875,
+                    35.6915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "581.543ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2885,
+                    55.9195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "124.565ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0985,
+                    40.9815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "122.708ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4815,
+                    40.5605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "17.004ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4895,
+                    39.0395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "1.228ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4895,
+                    46.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.172ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1695,
+                    48.7115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "4.923ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2085,
+                    38.9215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "2.676ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1875,
+                    25.0295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "84.408ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6415,
+                    35.4475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "76.49ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4005,
+                    -23.6595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "211.284ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4315,
+                    51.1705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "88.778ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1395,
+                    56.9505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "36.819ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.7095,
+                    -38.0115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "158.361ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1605,
+                    51.0505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "26.873ms"
+            }
+        }
+    ]
+}

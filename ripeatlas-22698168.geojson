@@ -1,0 +1,7055 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2275,
+                    6.1685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "137.837ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4585,
+                    59.8595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "48.595ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.2405,
+                    -33.9495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "181.678ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.8015,
+                    56.0005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "84.379ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1325,
+                    51.5075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.075ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0895,
+                    61.0695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.737ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6185,
+                    55.7585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "44.871ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.6725,
+                    44.8815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "24.709ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.8285,
+                    54.6005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "48.195ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.4195,
+                    34.6005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "371.743ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4405,
+                    59.7095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "33.711ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8395,
+                    53.8495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.029ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5975,
+                    51.1475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.963ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4395,
+                    44.7985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.71ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2595,
+                    61.6315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.642ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5715,
+                    51.1505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.876ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6215,
+                    50.5195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.19ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6685,
+                    50.4415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.947ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8305,
+                    45.6375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "10.515ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0505,
+                    53.5985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.826ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8795,
+                    52.3675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.067ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6605,
+                    41.4105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "22.295ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0995,
+                    48.0015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "26.163ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3625,
+                    39.5105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "50.356ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7205,
+                    40.4315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "26.565ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6205,
+                    55.8205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.708ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9315,
+                    51.7775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "10.675ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4625,
+                    34.0005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "28.676ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1175,
+                    22.3695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "33.979ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9595,
+                    52.3295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.227ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6415,
+                    48.8485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.998ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4205,
+                    -33.9205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "152.107ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2085,
+                    40.0015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "53.119ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6085,
+                    48.8505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "49.632ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8895,
+                    37.3375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "145.309ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9725,
+                    36.9475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "61.118ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1205,
+                    51.7915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "62.643ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6215,
+                    -33.4495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "185.667ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7715,
+                    37.9975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "87.001ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6875,
+                    3.1395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "13.786ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0085,
+                    43.6815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "58.465ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4985,
+                    52.0315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "9.156ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3805,
+                    48.8615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.564ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2395,
+                    34.0495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "24.733ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5705,
+                    50.7595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.957ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.6705,
+                    -4.0385
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "236.769ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1475,
+                    -26.3305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "184.49ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.1875,
+                    25.0295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "116.729ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3385,
+                    48.7715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "705.488ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.0525,
+                    35.0685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "26.21ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3075,
+                    52.0815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.692ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5005,
+                    47.3815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.99ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1715,
+                    51.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.599ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1885,
+                    -25.8605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "182.64ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3505,
+                    48.8815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "9.508ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1785,
+                    48.8615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.098ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4095,
+                    51.7915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.404ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6475,
+                    44.8585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.253ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8505,
+                    52.3675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.683ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2195,
+                    51.4975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.776ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5075,
+                    52.2995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.919ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9795,
+                    59.3805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.605ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0205,
+                    50.2585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "28.806ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4705,
+                    -33.9725
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "172.93ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2585,
+                    38.7585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.65ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3095,
+                    47.0495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.723ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4585,
+                    45.6075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.626ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9985,
+                    36.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "51.934ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2385,
+                    13.6875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "57.135ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8675,
+                    42.0115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.232ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.2315,
+                    -42.7485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "168.049ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4575,
+                    50.8505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "21.086ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3715,
+                    47.7475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.436ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4025,
+                    -34.6415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "157.002ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6415,
+                    35.4475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "78.121ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7825,
+                    56.0005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "33.594ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3185,
+                    51.6195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.369ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7085,
+                    47.2105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "60.275ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9395,
+                    51.5615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.475ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6805,
+                    19.4605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "75.707ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1585,
+                    43.2105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "36.61ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3485,
+                    42.6215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.122ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.2825,
+                    55.8185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "43.131ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3505,
+                    42.6595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "37.329ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9605,
+                    51.2775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "24.475ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2005,
+                    50.7405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.924ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6015,
+                    55.6415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.643ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5175,
+                    46.6615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "50.598ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2095,
+                    48.8505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.897ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6305,
+                    49.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "36.917ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8475,
+                    45.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.995ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2705,
+                    48.9105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.069ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1425,
+                    42.6585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "18.196ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1815,
+                    49.3895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "4.848ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1215,
+                    50.8405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.132ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4795,
+                    48.8195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "88.855ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.4915,
+                    39.1695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "58.382ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6205,
+                    55.7575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "44.565ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6215,
+                    55.7575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.561ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2575,
+                    48.6975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.132ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.3595,
+                    36.3715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "70.073ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.6115,
+                    -6.8885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "18.866ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5325,
+                    40.9885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "21.881ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6595,
+                    40.5285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.018ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3585,
+                    46.6715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.317ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4005,
+                    -23.6595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "211.006ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7785,
+                    51.8975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.171ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0115,
+                    51.0905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "38.713ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1615,
+                    50.1305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.766ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.8595,
+                    6.8995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "126.892ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5575,
+                    59.9285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.528ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6885,
+                    50.1875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.879ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7315,
+                    41.5885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "38.279ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7395,
+                    49.2215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.678ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.9875,
+                    46.4205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "69.308ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.4715,
+                    10.2485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "73.327ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1395,
+                    55.4675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.785ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1915,
+                    40.0285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "45.57ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9995,
+                    -29.8585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "190.315ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0995,
+                    48.1915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "45.752ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.3495,
+                    33.4375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "42.668ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5415,
+                    55.6515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "22.493ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1995,
+                    40.9695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "22.252ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7495,
+                    61.2005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "59.833ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2805,
+                    49.5095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "7.619ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4315,
+                    51.1705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "88.112ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2505,
+                    43.6395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "23.886ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2705,
+                    51.4815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.3ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9125,
+                    19.5415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "89.364ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5305,
+                    50.1005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.596ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3375,
+                    48.6305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.379ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4685,
+                    46.0795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "33.865ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7895,
+                    48.0885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.256ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6505,
+                    53.9395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.159ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6375,
+                    49.8785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "2.769ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6995,
+                    50.5005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "4.446ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2875,
+                    55.9185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.694ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0385,
+                    52.0095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.573ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4705,
+                    50.0785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.278ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5275,
+                    47.3685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.896ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3825,
+                    42.6515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "13.88ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5495,
+                    47.3785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "28.861ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1515,
+                    22.2795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "34.288ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5315,
+                    50.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "24.778ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7375,
+                    50.1195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "4.011ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3485,
+                    46.9675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "2.92ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4315,
+                    34.6595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "44.304ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9805,
+                    43.2905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "45.308ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5575,
+                    51.9705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.584ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9205,
+                    49.0675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.346ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9115,
+                    36.9715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "32.732ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.6395,
+                    56.8405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "75.825ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2275,
+                    54.7375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.42ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3705,
+                    51.4075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.748ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1905,
+                    -33.9325
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "139.858ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0385,
+                    51.5215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.764ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4375,
+                    47.1595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "28.785ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2595,
+                    42.7085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.162ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1105,
+                    56.9205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.491ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4715,
+                    49.4815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.159ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2085,
+                    13.0615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "42.192ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1185,
+                    38.8075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "42.001ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4515,
+                    48.2485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.491ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6485,
+                    49.8805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.025ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3515,
+                    48.9305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "9.342ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6875,
+                    51.8405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.863ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7185,
+                    47.5005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.785ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1795,
+                    48.7785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.848ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1605,
+                    65.5795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.294ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3275,
+                    46.1385
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.734ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9695,
+                    49.9595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.602ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7125,
+                    40.4015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "33.113ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5375,
+                    53.4485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.543ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9085,
+                    47.0975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.053ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9505,
+                    47.4915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.033ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5405,
+                    50.4315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.095ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6715,
+                    49.9995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.095ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.4985,
+                    14.7315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "130.582ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5425,
+                    44.0315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "49.305ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3885,
+                    33.8605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "26.474ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6275,
+                    50.4005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.513ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8795,
+                    42.2995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "26.193ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9875,
+                    41.2805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.978ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.8075,
+                    13.4385
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "137.556ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1695,
+                    38.6715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "46.939ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.6885,
+                    43.3205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "62.096ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4705,
+                    50.4675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.451ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8395,
+                    43.4595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.943ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7905,
+                    45.8305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "278.667ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.2715,
+                    41.3075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "114.875ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9315,
+                    46.0115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.229ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5075,
+                    41.9015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "55.113ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1385,
+                    48.5895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.037ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0715,
+                    41.5785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.524ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2705,
+                    44.1195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "61.873ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5375,
+                    52.4105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "38.17ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1275,
+                    47.6605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "42.455ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3695,
+                    48.8295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.05ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1305,
+                    53.1415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.074ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0085,
+                    52.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.469ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.1305,
+                    55.7775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "57.304ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0985,
+                    48.7405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.543ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4905,
+                    52.3815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.683ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7515,
+                    49.3105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.059ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0705,
+                    32.7695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "37.835ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1205,
+                    52.4875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.465ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8815,
+                    32.1475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "86.825ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.2115,
+                    -6.7885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "227.047ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0805,
+                    59.6415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.1ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8685,
+                    38.6405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "65.093ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9485,
+                    40.7875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "9.034ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7375,
+                    -36.6315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "179.332ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8475,
+                    -33.9525
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "190.892ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8175,
+                    -1.2925
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "134.424ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6115,
+                    54.1405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.6ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3985,
+                    55.6595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "24.838ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4075,
+                    35.7905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "227.752ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4375,
+                    41.9005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "24.508ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6785,
+                    51.0695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "22.104ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4695,
+                    55.8005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.228ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1295,
+                    44.4375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "42.932ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.0595,
+                    -38.9485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "190.05ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1985,
+                    40.1015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "44.864ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1395,
+                    56.9505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.495ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1615,
+                    36.8015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.991ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2285,
+                    48.0015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.23ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3415,
+                    50.0395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.659ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5875,
+                    51.8815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.886ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3505,
+                    33.9285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "29.953ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2295,
+                    59.9515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "33.069ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7915,
+                    35.6715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "105.063ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4515,
+                    44.0475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "43.966ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6215,
+                    44.6905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.551ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8905,
+                    60.2405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.848ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.6095,
+                    34.2715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "37.904ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7805,
+                    45.0505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.945ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8185,
+                    51.2695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.427ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0215,
+                    48.9505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.385ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5495,
+                    53.7895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.883ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9705,
+                    35.8405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "75.134ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0985,
+                    52.0875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.951ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3975,
+                    35.9395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "42.06ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4985,
+                    46.2785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "37.984ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7785,
+                    -41.2805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "173.791ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3295,
+                    50.0405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "9.81ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4275,
+                    -20.8895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "202.293ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8005,
+                    50.2305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.337ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6305,
+                    50.1015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "9.653ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.9685,
+                    -6.2595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "16.183ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8195,
+                    53.1005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.6ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.8585,
+                    -31.9495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "187.963ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.0525,
+                    -38.6185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "168.656ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0475,
+                    50.8715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.073ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5185,
+                    48.8315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.203ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8205,
+                    62.9985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "60.804ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0415,
+                    53.6395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.746ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9695,
+                    59.3715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.893ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5305,
+                    57.3315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.31ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0995,
+                    48.3315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.112ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4605,
+                    52.1295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.298ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9295,
+                    52.4075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.268ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2705,
+                    47.8795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.358ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3405,
+                    59.9615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "49.298ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4615,
+                    9.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "116.683ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0385,
+                    59.4675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.155ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9005,
+                    33.9695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "73.223ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1285,
+                    54.0975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "24.368ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3295,
+                    47.6075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "29.609ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3725,
+                    30.0985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "39.159ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.1505,
+                    12.3175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "156.985ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5385,
+                    44.0285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "39.327ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4675,
+                    50.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.173ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4715,
+                    50.8915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.028ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2525,
+                    50.8715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.446ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8405,
+                    50.9875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "21.441ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0315,
+                    41.0705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "38.11ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4575,
+                    55.5195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.119ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.6115,
+                    14.6475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "71.395ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0615,
+                    53.5515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "8.345ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3575,
+                    35.1605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "76.191ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5415,
+                    47.3815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.533ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5085,
+                    45.5305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.028ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6175,
+                    42.0495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.825ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9005,
+                    52.2075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.465ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9875,
+                    54.7595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "57.204ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.1505,
+                    -20.2315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "209.696ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4585,
+                    -33.9615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "153.785ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.3705,
+                    10.0505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "83.958ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0795,
+                    49.4275
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.176ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3205,
+                    60.3415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.548ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5515,
+                    43.0605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "55.572ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1595,
+                    50.7185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.943ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3305,
+                    50.6085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.187ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1005,
+                    49.0095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.912ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5185,
+                    47.3605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.634ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7775,
+                    59.9175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.065ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4015,
+                    48.2615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "22.55ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8595,
+                    56.6705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.735ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6785,
+                    51.1505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.004ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2005,
+                    48.8985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "98.776ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.1195,
+                    -16.4985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "217.56ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1105,
+                    45.9075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.698ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7975,
+                    35.7695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "71.787ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.7895,
+                    42.4985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "49.459ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1505,
+                    50.4515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.748ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3015,
+                    33.2575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "85.916ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4975,
+                    47.3815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.045ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9285,
+                    43.2095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "47.143ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8695,
+                    52.2015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "10.118ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8115,
+                    60.1375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "29.193ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5585,
+                    53.9005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.865ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7805,
+                    38.0315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "64.823ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5605,
+                    53.8985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.028ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1805,
+                    35.3195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "79.723ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4775,
+                    47.7685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.613ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2775,
+                    52.4515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.85ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5305,
+                    41.9015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "24.542ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0515,
+                    42.4605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "17.011ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0415,
+                    44.4185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "33.158ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0715,
+                    44.4605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "38.697ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0315,
+                    48.7685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.964ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5025,
+                    43.6305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "39.917ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1285,
+                    -29.5795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "185.626ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.7095,
+                    -38.0115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "158.833ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5975,
+                    53.9185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.789ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4985,
+                    52.1615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "9.706ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6475,
+                    44.8715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.966ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0415,
+                    51.7015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "10.643ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0095,
+                    45.8005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.604ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1605,
+                    51.0505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "22.817ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.8505,
+                    43.2205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "94.365ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1985,
+                    52.8985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.532ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.9215,
+                    47.0895
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "69.67ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3215,
+                    55.9315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.975ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2315,
+                    54.7405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "32.646ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8075,
+                    46.1785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "40.432ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.4385,
+                    35.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "118.268ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1595,
+                    48.9085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.133ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6915,
+                    48.1275
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "28.814ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.8695,
+                    59.2295
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "51.929ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6985,
+                    44.3875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "53.667ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5115,
+                    10.1175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "91.563ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0595,
+                    50.6285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.713ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4905,
+                    53.5105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.046ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5075,
+                    47.2085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.975ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1605,
+                    56.1115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "17.077ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1205,
+                    56.1695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.001ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.7915,
+                    41.7215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "66.339ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9775,
+                    57.0195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.86ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4105,
+                    47.8375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "43.23ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3785,
+                    38.4915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "40.869ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.8295,
+                    -6.1815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "81.822ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6085,
+                    49.1995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "129.559ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1595,
+                    42.4985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "42.205ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6895,
+                    45.0705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.084ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9915,
+                    45.2195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "50.438ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2175,
+                    47.2805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.181ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.7785,
+                    -41.2885
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "174.708ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9985,
+                    40.7115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "7.999ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6875,
+                    35.6905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "76.019ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1185,
+                    49.2805
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "14.027ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8615,
+                    39.9315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "57.062ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2175,
+                    46.0405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "68.706ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5495,
+                    52.6675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "13.292ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0595,
+                    44.4285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.909ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0015,
+                    48.0415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "64.834ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4525,
+                    44.9575
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "58.042ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.9085,
+                    10.3205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "66.706ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6885,
+                    52.9595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "23.685ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5915,
+                    55.7615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.477ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0085,
+                    41.0715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.099ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8805,
+                    47.8115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "41.137ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0425,
+                    51.0275
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "22.28ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9985,
+                    19.9995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "50.14ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2885,
+                    48.8675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.384ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6185,
+                    43.4105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.38ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2105,
+                    58.9995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "27.474ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0195,
+                    38.5315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "51.603ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1105,
+                    56.7085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.085ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9105,
+                    43.2085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "98.309ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9615,
+                    41.5595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "46.639ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0785,
+                    44.5675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.123ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0595,
+                    47.5195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.88ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6295,
+                    48.0975
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.551ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8595,
+                    61.4485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.547ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6795,
+                    46.5715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "35.636ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4895,
+                    51.3015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "12.574ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4005,
+                    50.0685
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "21.593ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.0015,
+                    20.0005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "72.092ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2115,
+                    46.2305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.388ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9775,
+                    55.5615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.039ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3375,
+                    59.9305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "33.28ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5505,
+                    51.4075
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.862ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1105,
+                    53.5395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.562ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.3125,
+                    43.6385
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "34.783ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6515,
+                    48.1005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "26.505ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1395,
+                    53.4875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.212ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3295,
+                    -21.2305
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "207.078ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4695,
+                    35.1085
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "50.563ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1715,
+                    50.9205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "26.11ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3175,
+                    49.1175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.437ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7295,
+                    39.2875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "7.321ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3915,
+                    51.9985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "16.593ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2485,
+                    42.9795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "53.419ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.1525,
+                    39.8495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "69.799ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4575,
+                    48.0605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "22.149ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4625,
+                    45.4485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "27.708ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3075,
+                    49.8775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.36ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9275,
+                    45.6715
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "42.466ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5315,
+                    37.1175
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "8.384ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7385,
+                    51.2375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "6.278ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6405,
+                    42.0505
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "35.946ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6705,
+                    60.7675
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "34.336ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2105,
+                    59.2785
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "25.41ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4615,
+                    46.4795
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "42.72ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3085,
+                    51.4875
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "14.83ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0785,
+                    49.3095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "26.676ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4515,
+                    46.0585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "42.53ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7375,
+                    50.1185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "3.069ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3615,
+                    38.9475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "2.708ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2905,
+                    40.7595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "19.969ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.2905,
+                    34.6995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "21.667ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9095,
+                    44.2005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.132ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1105,
+                    48.8775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.465ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3395,
+                    26.7185
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "43.121ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7585,
+                    35.6585
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "70.099ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5015,
+                    49.8915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "27.292ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.7915,
+                    38.5615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "91.7ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2985,
+                    24.9995
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "60.201ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4105,
+                    43.6905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "37.322ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6385,
+                    52.3395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "11.203ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6915,
+                    59.4595
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "37.374ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9915,
+                    39.9605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "18.699ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.9605,
+                    18.4415
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "76.272ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1105,
+                    48.1515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "45.056ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7815,
+                    48.5705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "15.468ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2475,
+                    -26.0815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "178.947ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6075,
+                    55.7395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "78.392ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.0425,
+                    50.2705
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "73.636ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.9095,
+                    -33.7725
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "162.685ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5985,
+                    30.0515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "37.369ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4975,
+                    50.9695
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "18.518ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5075,
+                    47.2905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "55.865ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.7175,
+                    41.7315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "55.347ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6085,
+                    42.1615
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "28.934ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0405,
+                    34.0905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "32.89ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0985,
+                    32.8485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "51.993ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9485,
+                    49.3215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "20.124ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0585,
+                    35.6375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "78.054ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4215,
+                    50.9405
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "31.293ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7395,
+                    59.9205
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.951ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2905,
+                    41.0315
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "58.445ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0585,
+                    42.4985
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "143.308ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0475,
+                    36.7485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "72.14ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9215,
+                    38.6005
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "5.561ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6215,
+                    30.4495
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "45.494ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6895,
+                    -34.7095
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "161.538ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.8225,
+                    39.5375
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-west-2",
+                "marker-color": "#f52097",
+                "time": "29.801ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0705,
+                    59.3285
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "30.842ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7005,
+                    10.7905
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "ap-southeast-1",
+                "marker-color": "#e9bc1f",
+                "time": "68.843ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3605,
+                    48.8515
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "9.688ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3475,
+                    48.9275
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "19.565ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.3875,
+                    35.6915
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "242.365ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2885,
+                    55.9195
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "39.502ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0985,
+                    40.9815
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "38.172ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4815,
+                    40.5605
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "7.112ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4895,
+                    39.0395
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "1.5ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4895,
+                    46.0775
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "20.667ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1695,
+                    48.7115
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "eu-central-1",
+                "marker-color": "#31e140",
+                "time": "5.023ms"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2085,
+                    38.9215
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "region": "us-east-1",
+                "marker-color": "#4157b5",
+                "time": "3.582ms"
+            }
+        }
+    ]
+}
