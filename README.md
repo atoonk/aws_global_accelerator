@@ -2,8 +2,8 @@
 
 This is a terraform recipe for spinning up an AWS Global Accelerator instance. 
 
-Also make sure to check the accompanying blog post here:
-https://medium.com/p/450fc8c4fd1e/
+Also make sure to check the accompanying blog post here: [Building a high available Anycast service using AWS global accelerator](https://medium.com/@atoonk/building-a-high-available-anycast-service-using-aws-global-accelerator-450fc8c4fd1e)
+
 
 This accelerator will have two listeners, one for UDP53 and one for TCP80. As part of the Terraform recipe, we also spin up vpc's in 4 regions, each with two EC2 instances.
 This repo comes with a DNS and Webserver (GoLang) that will be installed on the EC2 instances (see `/scripts/` )
