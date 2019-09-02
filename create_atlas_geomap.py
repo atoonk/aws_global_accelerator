@@ -6,7 +6,10 @@
 # Simple visualation tool that takes a ripe atlas measurement
 # as input and creates a geojon output
 # add that json in for example a github gist and it 
-# will be rendered as a geo map
+# will be rendered as a geo map.
+# Example geojson rendered with this script can be found here: 
+# ./create_atlas_geomap.py 22698168
+# https://github.com/atoonk/aws_global_accelerator/blob/master/ripeatlas-22698168.geojson
 ##########################################################
 
 
