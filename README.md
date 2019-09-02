@@ -1,6 +1,6 @@
 # Building a high available Anycast service using AWS global accelerator
 
-This is a terrafrom recipe for spinning up an AWS Global Accelerator instance. 
+This is a terraform recipe for spinning up an AWS Global Accelerator instance. 
 
 Also make sure to check the accompanying blog post here:
 https://medium.com/p/450fc8c4fd1e/
