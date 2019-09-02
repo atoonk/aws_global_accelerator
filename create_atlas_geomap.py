@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 ##########################################################
-#!/usr/bin/env python
 # Andree Toonk
 # Sept 1, 2010
 # Simple visualation tool that takes a ripe atlas measurement
@@ -26,7 +25,6 @@ colors = {
 	"ap-southeast-1": "#e9bc1f"
 }
 
-##########################################################
 
 ##########################################################
 # Check Input, expecting a ripe atlas measurement id
@@ -103,7 +101,6 @@ def process_measurement(measurement):
 				}
 			}
 			return dotOnMap
-			#all_dots.append(dotOnMap)
 
 ##########################################################
 #Fetch measurement
