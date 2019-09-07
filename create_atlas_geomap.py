@@ -2,7 +2,7 @@
 
 ##########################################################
 # Andree Toonk
-# Sept 1, 2010
+# Sept 1, 2019
 # Simple visualation tool that takes a ripe atlas measurement
 # as input and creates a geojon output
 # add that json in for example a github gist and it 
